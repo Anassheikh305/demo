@@ -1,2 +1,4 @@
 # demo
-for learning git and github &lt;br> Author Anas sheikh
+for learning git and github 
+<br> 
+Author Anas sheikh
